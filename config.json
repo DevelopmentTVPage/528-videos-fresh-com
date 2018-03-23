@@ -1,0 +1,15 @@
+{
+    "title": "Fresh",
+    "baseURL": "https:\/\/videos.fresh.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758799",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "fresh.com"
+    }
+}
